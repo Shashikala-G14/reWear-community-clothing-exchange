@@ -33,3 +33,5 @@ ReWear aims to:
 
 ### 🔄 Communication
 - RESTful API using JSON
+
+  
